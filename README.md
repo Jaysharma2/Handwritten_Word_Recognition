@@ -145,7 +145,6 @@ python src/get_results.py \
   --model ./models/crnn_vgg16_bn_telugu.pt
 ```
 
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
