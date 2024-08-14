@@ -83,7 +83,7 @@ The model achieved:
 5. **Evaluation and Testing**: Assess and test the trained models to generate predictions.
 
 
-## Installation
+## Installation and Usage
 
 This project uses [docTR: Document Text Recognition](https://github.com/mindee/doctr) to Train and test model, hence consider following steps for installation.
 ```sh
@@ -145,13 +145,6 @@ python src/get_results.py \
   --model ./models/crnn_vgg16_bn_telugu.pt
 ```
 
-## Usage
-
-Once the model is trained, you can use it to recognize text from handwritten images:
-
-```bash
-python recognize.py --image path/to/image.png
-```
 
 ## License
 
