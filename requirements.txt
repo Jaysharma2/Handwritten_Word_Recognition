@@ -1,7 +1,3 @@
-pip install pandas
-pip install pybind11
-pip install fastwer
-
-pip install -e doctr/.
-pip install -e doctr/.[torch]
-pip install -r ./references/requirements.txt
+pandas
+pybind11
+fastwer
