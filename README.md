@@ -153,11 +153,6 @@ Once the model is trained, you can use it to recognize text from handwritten ima
 python recognize.py --image path/to/image.png
 ```
 
-## Contributors
-
-- [Your Name](https://github.com/your-username) - Project Lead
-- [Contributor Name](https://github.com/contributor-username) - Research and Development
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
